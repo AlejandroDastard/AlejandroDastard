@@ -16,7 +16,6 @@ My professional approach is based on three core pillars:
 * Design efficient and secure databases.
 * Explore emerging technologies such as AI, data science, and modern frameworks.
 
----
 
 ## 🛠️ Technical Skills
 
@@ -28,7 +27,6 @@ My professional approach is based on three core pillars:
 | **Web** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  |
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white ) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
----
 
 ## 🎓 Certifications
 
@@ -40,7 +38,6 @@ My professional approach is based on three core pillars:
 | **Azure Data Fundamentals** | [![DP-900](https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/earner/earned/badge/43c89b66-18ed-473a-933b-38a3a801cd3c) | Microsoft |
 | **Software de Service Hub** | ![HubSpot](https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg) | HubSpot Academy |
 
----
 
 ## 🔧 Tools
 
@@ -50,13 +47,11 @@ My professional approach is based on three core pillars:
 | **Core Development** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=flat&logo=dbeaver&logoColor=white) |
 | **Design & Business** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Odoo](https://img.shields.io/badge/-Odoo-714B81?style=flat&logo=odoo&logoColor=white)  ![Office](https://img.shields.io/badge/-MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
 
----
 
 ## 🗣️ Languages
 
 ![Spanish](https://img.shields.io/badge/Spanish-Native-blue?style=for-the-badge) ![English](https://img.shields.io/badge/English-C1_(Competence)-blue?style=for-the-badge) ![EnglishCert](https://img.shields.io/badge/English-B1_(Certified)-blue?style=for-the-badge) ![Japanese](https://img.shields.io/badge/Japanese-N5_(Certified)-red?style=for-the-badge) ![French](https://img.shields.io/badge/French-A2_(Competence)-yellow?style=for-the-badge)
 
----
 
 ## 📫 Contact
 
